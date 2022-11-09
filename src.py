@@ -1,5 +1,5 @@
 password = "Pass12345!!XXabc"
-user_pwd = "OpenF3ast123@"
+master_pwd = "OpenF3ast123@"
 
 
 class db:
