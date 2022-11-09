@@ -9,3 +9,4 @@ class db:
   def connect_to_db(self):
     self._connection.connect(user=credentials, password=password)
     password = "Micro@12345!!XXabc"
+    db_pwd = "OpenFst123@"
